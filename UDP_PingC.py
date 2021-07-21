@@ -1,9 +1,4 @@
 # UDP_PingC.py
-# By Ricardo Tapia
-# Date: 04/07/2018
-# CS 4390
-# Section 003
-# Net-ID rit160030
 
 from socket import *
 import sys
